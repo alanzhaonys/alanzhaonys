@@ -44,7 +44,7 @@
 * CURA
 * Arduino
 * Fritzing
-* MISC microprocessor
+* MISC microprocessors
 
 **Editor**
 * VIM - the only editor<br>
