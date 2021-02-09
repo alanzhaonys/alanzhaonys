@@ -1,6 +1,6 @@
 ### My Skill Sets 👋
 
-*All the things I touched, many more not listed...*
+*All the things I touched, many more not remembered...*
 
 **Frontend**
 * SASS
