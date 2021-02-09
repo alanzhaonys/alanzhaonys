@@ -27,7 +27,7 @@
 * Woocommerce
 
 **DevOps**
-* AWS (Lambada, EC2, EBS, RDS, Route53, Amplify, S3, ApiGateway...)
+* AWS (Lambda, EC2, EBS, RDS, Route53, Amplify, S3, ApiGateway...)
 * Bash
 * Jenkins
 * Linux system management
