@@ -55,7 +55,9 @@ I am a data nerd, I love scraping data. If you want to scrap the whole yellowpag
 
 **My Inventions**
 
-**More at [https://www.makeral.com](MakerAL.com)**
+**More at [https://www.makeral.com/](https://www.makeral.com/)**
+
+Markdown selection 24 bytes 1 words 0 lines Ln 1, Col 33HTML 30 characters 3 words 1 paragraphs**
 
 [![Lord of the Cookies](https://azhao-public-tmp.s3.amazonaws.com/lord-of-the-cookies-mini.png)](https://www.youtube.com/watch?v=o0YrMbp4rdM "Lord of the Cookies")
 
