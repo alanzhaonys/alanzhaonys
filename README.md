@@ -21,6 +21,9 @@
 * Bash
 * Node.js
 
+**Data**
+I am a data nerd, I love scraping data. If you want to scrap the whole yellowpage.com, I am probably your guy. 
+
 **CMS - WordPress**
 * Customizations
 * Plugin development
