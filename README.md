@@ -2,7 +2,7 @@
 
 *The things I touched, many more not remembered...*
 
-<img src="https://images.youracclaim.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" width="150" alt="AWS Certified Solutions Architect – Associate"/><img src="https://images.youracclaim.com/size/680x680/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" width="150" alt="AWS Certified Cloud Practitioner"/>
+<a href="https://www.youracclaim.com/badges/20cc3cd4-a9fc-4494-bf33-689be3ad736a" target="blank"><img src="https://images.youracclaim.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" width="150" alt="AWS Certified Solutions Architect – Associate"/></a><a href="https://www.youracclaim.com/earner/earned/badge/f59e9bd8-833c-451f-a70b-644584676365" target="_blank"><img src="https://images.youracclaim.com/size/680x680/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" width="150" alt="AWS Certified Cloud Practitioner"/></a>
 
 [AWS Certified Solutions Architect – Associate](https://www.youracclaim.com/badges/20cc3cd4-a9fc-4494-bf33-689be3ad736a)
 
