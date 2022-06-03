@@ -18,6 +18,7 @@
 * AngularJS
 * Electron
 * Hugo
+* TypeScript
 
 **Backend**
 * LAMP/Laravel
