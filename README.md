@@ -3,6 +3,8 @@
 <a href="https://www.youracclaim.com/badges/20cc3cd4-a9fc-4494-bf33-689be3ad736a" target="blank"><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" alt="AWS Certified Solutions Architect – Associate"/></a>
 <a href="https://www.youracclaim.com/earner/earned/badge/f59e9bd8-833c-451f-a70b-644584676365" target="_blank"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Certified Cloud Practitioner"/></a>
 
+<a href="https://www.youracclaim.com/earner/earned/badge/f59e9bd8-833c-451f-a70b-644584676365" target="_blank"><img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="150" alt="AWS Certified Solutions Architect – Professional"/></a>
+
 [AWS Certified Solutions Architect – Associate](https://www.youracclaim.com/badges/20cc3cd4-a9fc-4494-bf33-689be3ad736a)
 
 [AWS Certified Cloud Practitioner](https://www.youracclaim.com/earner/earned/badge/f59e9bd8-833c-451f-a70b-644584676365)
