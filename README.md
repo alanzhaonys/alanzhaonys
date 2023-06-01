@@ -40,7 +40,7 @@ I am a data nerd, I love scraping data. If you want to scrap the whole yellowpag
 * Woocommerce
 
 **DevOps**
-* AWS (Lambda, EC2, EBS, RDS, Route53, Amplify, S3, ApiGateway...)
+* AWS (Lambda, EC2, ECS, VPC, EBS, RDS, Route53, Amplify, S3, ApiGateway etc)
 * Bash
 * Jenkins
 * Linux system management
