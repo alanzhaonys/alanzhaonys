@@ -10,6 +10,8 @@
 
 [AWS Certified Cloud Practitioner](https://www.youracclaim.com/earner/earned/badge/f59e9bd8-833c-451f-a70b-644584676365)
 
+[AWS Certified Developer – Associate](https://www.credly.com/badges/20ece24b-4447-497b-8f0a-7e4847ade080)
+
 **Frontend**
 * SASS
 * Gulp
