@@ -3,6 +3,7 @@
 <a href="https://www.credly.com/badges/9b6ad094-2d01-4055-bd04-1170f9817847/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Certified Cloud Practitioner"/></a>
 <a href="https://www.credly.com/badges/20c4c09d-cd3d-4302-8d2f-726d6f9bb5b8/public_url" target="blank"><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" alt="AWS Certified Solutions Architect – Associate"/></a>
 <a href="https://www.credly.com/badges/1e7a6ec8-d5f9-41aa-801f-0038e772cb65/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="150" alt="AWS Certified Solutions Architect – Professional"/></a>
+<a href="https://www.credly.com/badges/20ece24b-4447-497b-8f0a-7e4847ade080/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="150" alt="AWS Certified Developer – Associate"/></a>
 
 [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/1e7a6ec8-d5f9-41aa-801f-0038e772cb65/public_url)
 
