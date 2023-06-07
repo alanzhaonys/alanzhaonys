@@ -16,9 +16,7 @@
 **Frontend**
 * SASS
 * Gulp
-* Bootstrap
-* jQuery
-* ES6
+* Bootstrap/MUI
 * ReactJS
 * AngularJS
 * Electron
@@ -31,7 +29,7 @@
 * Java
 * Python
 * Bash
-* Node.js
+* Node.js(TypeScript)
 
 **Data**
 
@@ -43,8 +41,9 @@ I am a data nerd, I love scraping data. If you want to scrap the whole yellowpag
 * Woocommerce
 
 **DevOps**
-* AWS (Lambda, EC2, ECS, VPC, EBS, RDS, Route53, Amplify, S3, ApiGateway etc)
+* AWS
 * Bash
+* GitHub/GitLab/Bitbucket
 * Jenkins
 * Linux system management
 * Windows system management
