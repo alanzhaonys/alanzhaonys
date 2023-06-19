@@ -1,3 +1,6 @@
+### My Medium Articles
+[https://azhao6060.medium.com/](https://azhao6060.medium.com/)
+
 ### My Skill Sets 👋
 
 <a href="https://www.credly.com/badges/9b6ad094-2d01-4055-bd04-1170f9817847/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Certified Cloud Practitioner"/></a>
