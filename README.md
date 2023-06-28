@@ -12,7 +12,7 @@
 
 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/83610c58-e702-4627-9f4c-ede99eb1232c/public_url)
 
-[AWS Certified Solutions Architect – Associate](https://www.youracclaim.com/badges/20cc3cd4-a9fc-4494-bf33-689be3ad736a)
+[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/20c4c09d-cd3d-4302-8d2f-726d6f9bb5b8/public_url)
 
 [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/1e7a6ec8-d5f9-41aa-801f-0038e772cb65/public_url)
 
