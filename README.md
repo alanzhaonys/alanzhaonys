@@ -10,7 +10,7 @@
 <a href="https://www.credly.com/badges/20ece24b-4447-497b-8f0a-7e4847ade080/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="150" alt="AWS Certified Developer – Associate"/></a>
 <a href="https://www.credly.com/badges/b158d389-f30c-4133-83b5-8aba653cd661/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="150" alt="AWS Certified DevOps Engineer – Professional"/></a>
 
-[AWS Certified Cloud Practitioner](https://www.youracclaim.com/earner/earned/badge/f59e9bd8-833c-451f-a70b-644584676365)
+[AWS Certified Cloud Practitioner](https://www.credly.com/badges/83610c58-e702-4627-9f4c-ede99eb1232c/public_url)
 
 [AWS Certified Solutions Architect – Associate](https://www.youracclaim.com/badges/20cc3cd4-a9fc-4494-bf33-689be3ad736a)
 
