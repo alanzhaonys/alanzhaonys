@@ -10,11 +10,11 @@
 <a href="https://www.credly.com/badges/20ece24b-4447-497b-8f0a-7e4847ade080/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="150" alt="AWS Certified Developer – Associate"/></a>
 <a href="https://www.credly.com/badges/b158d389-f30c-4133-83b5-8aba653cd661/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="150" alt="AWS Certified DevOps Engineer – Professional"/></a>
 
-[AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/1e7a6ec8-d5f9-41aa-801f-0038e772cb65/public_url)
+[AWS Certified Cloud Practitioner](https://www.youracclaim.com/earner/earned/badge/f59e9bd8-833c-451f-a70b-644584676365)
 
 [AWS Certified Solutions Architect – Associate](https://www.youracclaim.com/badges/20cc3cd4-a9fc-4494-bf33-689be3ad736a)
 
-[AWS Certified Cloud Practitioner](https://www.youracclaim.com/earner/earned/badge/f59e9bd8-833c-451f-a70b-644584676365)
+[AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/1e7a6ec8-d5f9-41aa-801f-0038e772cb65/public_url)
 
 [AWS Certified SysOps Administrator – Associate](https://www.credly.com/earner/earned/share/3bd3537d-4253-4b75-8e09-51aff290b7fb)
 
