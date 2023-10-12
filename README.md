@@ -53,7 +53,7 @@ I am a data nerd, I love scraping data. If you want to scrap the whole yellowpag
 * AWS
 * Bash
 * GitHub/GitLab/Bitbucket/CodePipeline/CodeBuild/CodeDeploy
-* CloudFormation/Terraform
+* CloudFormation/Terraform/CDK
 * Jenkins
 * Linux system management
 * Windows system management
