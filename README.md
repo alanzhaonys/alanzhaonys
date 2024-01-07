@@ -23,6 +23,8 @@
 
 [AWS Certified DevOps Engineer - Professional](https://www.credly.com/badges/b158d389-f30c-4133-83b5-8aba653cd661/public_url)
 
+[AWS Certified Security – Specialty](https://www.credly.com/badges/3e567b96-92ba-41aa-a853-ec93cd84eb41/public_url)
+
 **Frontend**
 * SASS
 * Gulp
