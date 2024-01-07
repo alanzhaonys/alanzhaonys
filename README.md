@@ -9,6 +9,7 @@
 <a href="https://www.credly.com/badges/3bd3537d-4253-4b75-8e09-51aff290b7fb/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="150" alt="AWS Certified SysOps Administrator – Associate"/></a>
 <a href="https://www.credly.com/badges/20ece24b-4447-497b-8f0a-7e4847ade080/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="150" alt="AWS Certified Developer – Associate"/></a>
 <a href="https://www.credly.com/badges/b158d389-f30c-4133-83b5-8aba653cd661/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="150" alt="AWS Certified DevOps Engineer – Professional"/></a>
+<a href="https://www.credly.com/badges/3e567b96-92ba-41aa-a853-ec93cd84eb41/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="150" alt="AWS Certified Security – Specialty"/></a>
 
 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/83610c58-e702-4627-9f4c-ede99eb1232c/public_url)
 
